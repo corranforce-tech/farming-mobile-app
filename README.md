@@ -26,8 +26,6 @@ The application is also designed in such a way that it will be easy to use.
 | --- | --- | --- | --- | --- |
 
 
-## 🤩 Designs:
-<img src="https://github.com/hetsuthar028/Farming-App/blob/master/Agri India.png" />
 
 ## 😀 If you liked the app, Please give it a ⭐ and fork the repository. 🤚🏻
 1
