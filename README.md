@@ -28,4 +28,4 @@ The application is also designed in such a way that it will be easy to use.
 
 
 ## 😀 If you liked the app, Please give it a ⭐ and fork the repository. 🤚🏻
-1
+2
